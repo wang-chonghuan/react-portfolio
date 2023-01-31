@@ -8,7 +8,7 @@ const Body = () => {
             <div className="body-container">
                 <img className="body-img" alt="avatar" src={Avatar}/>
                 <div className="body-content">
-                    <div className="body-headline">Walt Want</div>
+                    <div className="body-headline">Walt Wang</div>
                     <div className="body-text">Fullstacker</div>
                 </div>
                 <div className="body-icons">
